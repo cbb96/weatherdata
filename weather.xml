@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <weather>
   <location>Dalwallinu, WA</location>
-  <temperature unit="C">14.78</temperature>
-  <humidity unit="%">52.01</humidity>
-  <uptime_ms>2739486</uptime_ms>
+  <temperature unit="C">14.67</temperature>
+  <humidity unit="%">52.27</humidity>
+  <uptime_ms>3042733</uptime_ms>
 </weather>
