@@ -2,6 +2,6 @@
 <weather>
   <location>Dalwallinu, WA</location>
   <temperature unit="C">6.97</temperature>
-  <humidity unit="%">85.62</humidity>
-  <uptime_ms>1215802</uptime_ms>
+  <humidity unit="%">86.38</humidity>
+  <uptime_ms>1521790</uptime_ms>
 </weather>
